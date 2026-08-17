@@ -37,7 +37,7 @@ Depues se calculara
 6. Cantidad de recaudacion;
 
 ## Evidencia
-El siguiente enlace contiene un docx de evidencias [Evidencia.docx]([https://dillinger.io](https://umgt-my.sharepoint.com/:w:/g/personal/wpacayd1_miumg_edu_gt/IQDOPVhMEakeQrk4hNXEUtHUAat-RIpVeTwcRaigQ4Rqa-E?e=F029rw))
+El siguiente enlace contiene un docx de evidencias: [Evidencia.docx](https://umgt-my.sharepoint.com/:w:/g/personal/wpacayd1_miumg_edu_gt/IQDOPVhMEakeQrk4hNXEUtHUAat-RIpVeTwcRaigQ4Rqa-E?e=F029rw)
 
 ## Ejecucion
 Es necesario que se descargue el repositorio, para su correcta ejecucion.
